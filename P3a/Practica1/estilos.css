@@ -1,0 +1,22 @@
+h1{
+    color:rgb(201, 81, 12)
+}
+body{
+    background-color: cyan;
+}
+.Lorem_1{
+    color: goldenrod;
+    font-size: small;
+}
+.Lorem_2{
+    color: rgba(255, 0, 140, 0.589);
+    font-size: medium;
+}
+.Lorem_3{
+    color: rgb(255, 4, 4);
+    font-size: x-large;
+}
+.Lorem_4{
+    color: rgba(202, 14, 240, 0.726);
+    font-size: xx-large;
+}
