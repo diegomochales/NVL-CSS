@@ -1,0 +1,38 @@
+[data-vegetal]{
+    color: rgb(124, 201, 9);
+}
+[data-liquido]{
+    color: lightskyblue;
+}
+[data-aderezo]{
+    color: yellow;
+}
+[data-principal]{
+    color: whitesmoke;
+}
+body{
+    background-color: black;
+    font-family: fantasy;
+}
+h1, h2{
+    color: rgba(219, 219, 110, 0.781);
+    border-bottom:1px dotted #9999CC;
+    text-decoration:none;
+}
+h3{
+    color: rgba(219, 219, 110, 0.781);
+    text-align: center;
+}
+p{
+    color: whitesmoke;
+}
+form{
+    text-align: center;
+}
+#caja{
+    height: 100px;
+    width: 200px;
+}
+div{
+    text-align: center;
+}
