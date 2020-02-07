@@ -1,0 +1,42 @@
+body{
+    background-color: rgba(221, 109, 109, 0.37);
+    font-family: cursive;
+}
+.lista{
+   font-size: xx-large;
+}
+#talco{
+    background-color: white;
+}
+#yeso{
+    background-color: rgb(223, 219, 219);
+}
+#calcita{
+    background-color: rgb(196, 194, 194);
+}
+#fluorita{
+    background-color: rgb(170, 170, 170);
+}
+#apatita{
+    background-color: rgb(158, 158, 158);
+}
+#ortosa{
+    background-color: rgb(139, 139, 139);
+}
+#cuarzo{
+    background-color: rgb(119, 119, 119);
+    color: white;
+}
+#topacio{
+    background-color: rgb(87, 87, 87);
+    color: white;
+}
+#corindon{
+    background-color: rgb(54, 54, 54);
+    color: white;
+}
+#diamante{
+    background-color: black;
+    color: white;
+}
+
