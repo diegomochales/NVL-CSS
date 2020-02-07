@@ -1,0 +1,9 @@
+.importante + p{
+    color: red;
+}
+div p{
+    border: solid 2px #fabada;
+}
+body{
+    background-color: rgba(70, 207, 207, 0.671);
+}
