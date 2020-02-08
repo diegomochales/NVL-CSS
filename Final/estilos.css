@@ -1,0 +1,42 @@
+#menu{
+    background-color: rgb(79, 133, 34);
+    width: 300px;
+    text-align: center;
+}
+a{
+    color: rgb(27, 20, 121);
+}
+#posts{
+    background-color: rgba(223, 150, 14, 0.842);
+    width: 700px;
+    padding: 0px 10px;
+}
+#favoritos{
+    background-color: rgb(155, 112, 197);
+    width: 300px;
+}
+.cajas{
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border: 1px solid whitesmoke;
+    float: left;
+}
+body{
+    background-color: salmon;
+    margin: 0px 50px;
+}
+.titulos{
+    font-family: fantasy;
+    text-align: center;
+}
+.imagenes{
+
+}
+.titulillos{
+    font-family: fantasy;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
