@@ -14,6 +14,7 @@ a{
 #favoritos{
     background-color: rgb(155, 112, 197);
     width: 300px;
+    text-align: center;
 }
 .cajas{
     display: inline-block;
@@ -32,7 +33,8 @@ body{
     text-align: center;
 }
 .imagenes{
-
+    display: block;
+    margin: auto;
 }
 .titulillos{
     font-family: fantasy;
